@@ -37,7 +37,6 @@ KTLT_project/
 ├── tien_ich.h
 ├── test.cpp
 ├── build_and_run.bat
-├── main.tex
 └── README.md
 ```
 
